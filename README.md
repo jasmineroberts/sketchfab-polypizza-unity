@@ -4,7 +4,7 @@ This project demonstrates a powerful runtime integration between Sketchfab's API
 
 ## Project Highlights
 
-The code has been showcased in the following prestigious projects:
+The code has been showcased in the following projects:
 
 - **Microsoft's "Speaking the World into Existence" Project**  
   
