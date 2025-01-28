@@ -6,9 +6,9 @@ This project demonstrates a powerful runtime integration between Sketchfab's API
 
 The code has been showcased in the following projects:
 
-- **Microsoft's "Speaking the World into Existence" Project**  
+- **Microsoft's "Speaking the World into Existence" Project**  (https://github.com/microsoft/llmr)
   
-- **"Best of IoT" Award at MIT Reality Hack 2025**  
+- **"Best Use of IoT" Award at MIT Reality Hack 2025** 
 
 
 ---
