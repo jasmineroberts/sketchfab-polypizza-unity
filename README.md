@@ -8,7 +8,7 @@ The code has been used in the following projects:
 
 - **Microsoft's "Speaking the World into Existence" Project**  (https://github.com/microsoft/llmr)
   
-- **Reality Bridge – Best Use of Qualcomm Technologies in IoT** 
+- **Reality Bridge – Best Use of Qualcomm Technologies in IoT, MIT Reality Hack 2025** 
 
 
 ---
